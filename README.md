@@ -6,7 +6,7 @@ The objective is to understand the dataset through statistics and
 visualizations before applying any machine learning models.
 
 ## Notebook
-- project5mlregression.ipynb
+``project5mlregression.ipynb``
 
 ## Tools & Libraries Used
 - Python
